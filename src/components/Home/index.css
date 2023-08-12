@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.footer_container_h {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.darktheme_h {
+  background-color: black;
+}

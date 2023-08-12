@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.nav_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #ffffff;
+}
+.darktheme {
+  background-color: black;
+}
+.logo {
+  height: 25px;
+  width: 25px;
+}
+.list_item {
+  display: flex;
+  margin-left: 0px;
+  padding-left: 0px;
+  list-style-type: none;
+}
+.links {
+  text-decoration: none;
+}
+.heading {
+  margin: 0px 10px;
+  font-size: 20px;
+  font-family: 'roboto';
+
+  color: #171f46;
+}
+.dark_desc {
+  color: #ffffff;
+}
+.btn {
+  background-color: transparent;
+  border: 0px none;
+}
+.btn_logo {
+  height: 20px;
+  width: 20px;
+}
